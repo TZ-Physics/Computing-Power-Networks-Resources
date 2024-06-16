@@ -14,7 +14,7 @@ China Communication, 2024.
 arXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15627)]
 
-## Optical Internection 
+## Optical Interconnection 
 
 **Photonic network-on-wafer for multichiplet GPUs.**<br>
 *S Zhang, Z Zhang, M Naderan-Tahan, H SeyyedAghaei, X Wang, H Li, S Qin, D Colle, et al.*<br>
