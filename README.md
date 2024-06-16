@@ -19,6 +19,11 @@ China Communication, 2021.
 arXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15627)]
 
+**Tpu v4: An optically reconfigurable supercomputer for machine learning with hardware support for embeddings.**<br>
+*N Jouppi, G Kurian, S Li, P Ma, R Nagarajan, et al.*<br>
+ISCA, 2023.
+[[ArXiv](https://dl.acm.org/doi/pdf/10.1145/3579371.3589350)]
+
 ## Optical Interconnection 
 
 **Photonic network-on-wafer for multichiplet GPUs.**<br>
