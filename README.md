@@ -24,6 +24,13 @@ arXiv, 2024.
 ISCA, 2023.
 [[ArXiv](https://dl.acm.org/doi/pdf/10.1145/3579371.3589350)]
 
+## Distributed deep learning
+
+**Flexible silicon photonic architecture for accelerating distributed deep learning.**<br>
+*Zhenguo Wu, Liang Yuan Dai, Yuyang Wang, Songli Wang, and Keren Bergman.*<br>
+Journal of Optical Communications and Networking, 2024.
+[[ArXiv](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-16-2-A157&origin=search)]
+
 ## Optical Interconnection 
 
 **Photonic network-on-wafer for multichiplet GPUs.**<br>
