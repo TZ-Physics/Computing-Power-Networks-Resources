@@ -31,6 +31,11 @@ ISCA, 2023.
 Journal of Optical Communications and Networking, 2024.
 [[ArXiv](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-16-2-A157&origin=search)]
 
+**Distributed training of large language models**<br>
+*F Zeng, W Gan, Y Wang, et al.*<br>
+2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), 2023.
+[[ArXiv](https://www.researchgate.net/profile/Wensheng-Gan/publication/379320620_Distributed_Training_of_Large_Language_Models/links/66095106390c214cfd2c968b/Distributed-Training-of-Large-Language-Models.pdf)]
+
 ## Optical Interconnection 
 
 **Photonic network-on-wafer for multichiplet GPUs.**<br>
