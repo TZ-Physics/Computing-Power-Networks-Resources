@@ -36,6 +36,20 @@ Journal of Optical Communications and Networking, 2024.
 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), 2023.
 [[ArXiv](https://www.researchgate.net/profile/Wensheng-Gan/publication/379320620_Distributed_Training_of_Large_Language_Models/links/66095106390c214cfd2c968b/Distributed-Training-of-Large-Language-Models.pdf)]
 
+**Reliable and efficient RAR-based distributed model training in computing power network.**<br>
+*Chen, Ling; Li, Yajie; Natalino, Carlos; Li, Yongcheng; Zhang, Boxin; Fan, Yingbo; Wang, Wei; Zhao, Yongli; Zhang, Jie.*<br>
+Journal of Optical Communications and Networking, 2024.
+
+## DataCenter
+
+**Optical switching will innovate intra data center networks.**<br>
+*Sato, Ken-ichi.*<br>
+Journal of Optical Communications and Networking, 2024.
+
+**New trends in photonic switching and optical networking architectures for data centers and computing systems.**<br>
+*Yoo, S. J. Ben.*<br>
+Journal of Optical Communications and Networking, 2024.
+
 ## Optical Interconnection 
 
 **Photonic network-on-wafer for multichiplet GPUs.**<br>
