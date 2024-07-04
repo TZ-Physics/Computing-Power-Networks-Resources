@@ -14,15 +14,20 @@ China Communication, 2021.
 
 ## Training Cluster
 
+**Tpu v4: An optically reconfigurable supercomputer for machine learning with hardware support for embeddings.**<br>
+*N Jouppi, G Kurian, S Li, P Ma, R Nagarajan, et al.*<br>
+ISCA, 2023.
+[[ArXiv](https://dl.acm.org/doi/pdf/10.1145/3579371.3589350)]
+
 **MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs.**<br>
 *Z Jiang, H Lin, Y Zhong, Q Huang, Y Chen, et al.*<br>
 arXiv, 2024.
 [[ArXiv](https://arxiv.org/pdf/2402.15627)]
 
-**Tpu v4: An optically reconfigurable supercomputer for machine learning with hardware support for embeddings.**<br>
-*N Jouppi, G Kurian, S Li, P Ma, R Nagarajan, et al.*<br>
-ISCA, 2023.
-[[ArXiv](https://dl.acm.org/doi/pdf/10.1145/3579371.3589350)]
+**Alibaba HPN: A Data Center Network for Large Language Model Training.**<br>
+*K Qian, Y Xi, J Cao, J Gao, Y Xu, Y Guan, B Fu, X Shi, F Zhu, R Miao, C Wang, P Wang, et al.*<br>
+SigComm, 2024.
+[[Paper](https://ennanzhai.github.io/pub/sigcomm24-hpn.pdf)]
 
 ## Distributed deep learning
 
