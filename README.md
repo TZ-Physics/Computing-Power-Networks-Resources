@@ -67,6 +67,14 @@ IEEE Micro, 2023.
 HPCA, 2023.
 [[Paper](https://www.researchgate.net/profile/Dong-Xiang-10/publication/369515200_A_Scalable_Methodology_for_Designing_Efficient_Interconnection_Network_of_Chiplets/links/65c5e15a34bbff5ba7f6bf25/A-Scalable-Methodology-for-Designing-Efficient-Interconnection-Network-of-Chiplets.pdf)]
 
+**SEECHIP: A Scalable and Energy-Efficient Chiplet-based GPU Architecture Using Photonic Links.**<br>
+*H Zhang, Y Chen, Z Huang, H Zhang, F Dai.*<br>
+Proceedings of the 52nd International Conference on Parallel Processing, 2023.
+
+**Connect-A-PIC: an open-source automated photonic circuit design and simulation platform for fast iteration and education.**<br>
+*M Aigner, M Kissner, F Päsler, L Del Bino.*<br>
+Optical Interconnects XXIV, 2024.
+
 ## Optical Network
 
 **On Network Design and Planning 2.0 for Optical-Computing-Enabled Networks.**<br>
