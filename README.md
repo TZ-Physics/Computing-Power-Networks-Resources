@@ -90,3 +90,7 @@ Advanced Information Networking and Applications, 2024.
 *Z Xie, D Sánchez-Jácome, L Torrijos-Morán, D Pérez-López.*<br>
 Journal of Optical Communications and Networking, 2024.
 [[Paper](https://arxiv.org/pdf/2404.08648)]
+
+**What comes after optical-bypass network? A study on optical-computing-enabled network.**<br>
+*DT Ha.*<br>
+Optical Fiber Technology, 2024.
