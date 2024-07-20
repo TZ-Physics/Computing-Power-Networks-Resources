@@ -47,6 +47,10 @@ Journal of Optical Communications and Networking, 2024.
 
 ## DataCenter
 
+**Recent advances in optical technologies for data centers: a review.**<br>
+*Q Cheng, M Bahadori, M Glick, S Rumley, K Bergman.*<br>
+Optica, 2018.
+
 **Optical switching will innovate intra data center networks.**<br>
 *Sato, Ken-ichi.*<br>
 Journal of Optical Communications and Networking, 2024.
