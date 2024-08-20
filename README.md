@@ -29,14 +29,14 @@ arXiv, 2024.
 SigComm, 2024.
 [[Paper](https://ennanzhai.github.io/pub/sigcomm24-hpn.pdf)]
 
-## Distributed deep learning
+## Distributed Deep Learning
 
 **Flexible silicon photonic architecture for accelerating distributed deep learning.**<br>
 *Zhenguo Wu, Liang Yuan Dai, Yuyang Wang, Songli Wang, and Keren Bergman.*<br>
 Journal of Optical Communications and Networking, 2024.
 [[ArXiv](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-16-2-A157&origin=search)]
 
-**Distributed training of large language models**<br>
+**Distributed training of large language models.**<br>
 *F Zeng, W Gan, Y Wang, et al.*<br>
 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), 2023.
 [[ArXiv](https://www.researchgate.net/profile/Wensheng-Gan/publication/379320620_Distributed_Training_of_Large_Language_Models/links/66095106390c214cfd2c968b/Distributed-Training-of-Large-Language-Models.pdf)]
