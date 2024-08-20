@@ -94,3 +94,17 @@ Journal of Optical Communications and Networking, 2024.
 **What comes after optical-bypass network? A study on optical-computing-enabled network.**<br>
 *DT Ha.*<br>
 Optical Fiber Technology, 2024.
+
+## Integrated Sensing & Communications & Computing (ISCC)
+
+**Integrated sensing and communication in an optical fibre.**<br>
+*H He, L Jiang, Y Pan, A Yi, X Zou, W Pan, AE Willner, X Fan, Z He, L Yan.*<br>
+Light: Science & Applications, 2023.
+
+**Integrated sensing-communication-computation for edge artificial intelligence.**<br>
+*D Wen, X Li, Y Zhou, Y Shi, S Wu, et al.*<br>
+IEEE Internet of Things Magazine, 2024.
+
+**A Survey on Integrated Sensing, Communication, and Computation.**<br>
+*D Wen, Y Zhou, X Li, Y Shi, K Huang, KB Letaief.*<br>
+arXiv:2408.08074, 2024.
