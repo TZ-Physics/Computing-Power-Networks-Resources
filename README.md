@@ -2,15 +2,19 @@
 
 # Review
 
+**Computing power network: The architecture of convergence of computing and networking towards 6G requirement.**<br>
+*X Tang, C Cao, Y Wang, S Zhang, Y Liu, et al.*<br>
+China Communication, 2021.
+[[Paper](https://www.6g-ana.com/upload/file/20211012/6376966709144436202981842.pdf)]
+
 **Computing power network: A survey.**<br>
 *S Yukun, L Bo, L Juniin, H Haonan, Z Xing, et al.*<br>
 China Communication, 2024.
 [[ArXiv](https://arxiv.org/pdf/2210.06080)]
 
-**Computing power network: The architecture of convergence of computing and networking towards 6G requirement.**<br>
-*X Tang, C Cao, Y Wang, S Zhang, Y Liu, et al.*<br>
-China Communication, 2021.
-[[Paper](https://www.6g-ana.com/upload/file/20211012/6376966709144436202981842.pdf)]
+**DPU-Enhanced Multi-Agent Actor-Critic Algorithm for Cross-Domain Resource Scheduling in Computing Power Network.**<br>
+*S Wang, S Guo, J Hao, Y Ren, et al.*<br>
+IEEE Transactions on Network and Service Management, 2024.
 
 ## Training Cluster
 
