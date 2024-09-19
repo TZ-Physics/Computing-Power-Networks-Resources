@@ -33,6 +33,11 @@ arXiv, 2024.
 SigComm, 2024.
 [[Paper](https://ennanzhai.github.io/pub/sigcomm24-hpn.pdf)]
 
+**Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning.**<br>
+*W An, X Bi, G Chen, S Chen, C Deng, H Ding, K Dong, Q Du, W Gao, K Guan, J Guo, Y Guo, et al.*<br>
+arXiv:2408.14158, 2024.
+[[Paper](https://arxiv.org/pdf/2408.14158)]
+
 ## Distributed Deep Learning
 
 **Flexible silicon photonic architecture for accelerating distributed deep learning.**<br>
