@@ -104,6 +104,22 @@ Journal of Optical Communications and Networking, 2024.
 *DT Ha.*<br>
 Optical Fiber Technology, 2024.
 
+## Optical Communication
+
+**Machine learning techniques in optical communication.**<br>
+*D Zibar, M Piels, R Jones, CG Schäeffer.*<br>
+Journal of Lightwave Technology, 2015.
+
+**Silicon photonics for high-speed communications and photonic signal processing.**<br>
+*X Zhou, D Yi, DWU Chan, HK Tsang.*<br>
+npj Nanophotonics, 2024.
+[[Paper](https://www.nature.com/articles/s44310-024-00024-7.pdf)]
+
+**Learnable digital signal processing: a new benchmark of linearity compensation for optical fiber communications.**<br>
+*Z Niu, H Yang, L Li, M Shi, G Xu, W Hu, L Yi.*<br>
+Light: Science & Applications, 2024.
+[[Paper](https://www.nature.com/articles/s41377-024-01556-5.pdf)]
+
 ## Integrated Sensing & Communications & Computing (ISCC)
 
 **Integrated sensing and communication in an optical fibre.**<br>
