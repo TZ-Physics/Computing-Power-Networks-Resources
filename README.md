@@ -38,12 +38,17 @@ SigComm, 2024.
 arXiv:2408.14158, 2024.
 [[Paper](https://arxiv.org/pdf/2408.14158)]
 
+**Efficient Training of Large Language Models on Distributed Infrastructures: A Survey.**<br>
+*J Duan, S Zhang, Z Wang, L Jiang, W Qu, Q Hu, et al.*<br>
+arXiv, 2024.
+[[Paper](https://arxiv.org/pdf/2407.20018)]
+
 ## Distributed Deep Learning
 
 **Flexible silicon photonic architecture for accelerating distributed deep learning.**<br>
 *Zhenguo Wu, Liang Yuan Dai, Yuyang Wang, Songli Wang, and Keren Bergman.*<br>
 Journal of Optical Communications and Networking, 2024.
-[[[Paper](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-16-2-A157&origin=search)]
+[[Paper](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-16-2-A157&origin=search)]
 
 **Distributed training of large language models.**<br>
 *F Zeng, W Gan, Y Wang, et al.*<br>
@@ -67,6 +72,11 @@ Journal of Optical Communications and Networking, 2024.
 **New trends in photonic switching and optical networking architectures for data centers and computing systems.**<br>
 *Yoo, S. J. Ben.*<br>
 Journal of Optical Communications and Networking, 2024.
+
+**Generative AI in Data Center Networking: Fundamentals, Perspectives, and Case Study.**<br>
+*Y Liu, H Du, D Niyato, J Kang, Z Xiong, Y Wen, et al.*<br>
+arXiv, 2024.
+[[Paper](https://arxiv.org/pdf/2409.09343)]
 
 ## Optical Interconnection 
 
