@@ -10,7 +10,7 @@ China Communication, 2021.
 **Computing power network: A survey.**<br>
 *S Yukun, L Bo, L Juniin, H Haonan, Z Xing, et al.*<br>
 China Communication, 2024.
-[[ArXiv](https://arxiv.org/pdf/2210.06080)]
+[[Paper](https://arxiv.org/pdf/2210.06080)]
 
 **DPU-Enhanced Multi-Agent Actor-Critic Algorithm for Cross-Domain Resource Scheduling in Computing Power Network.**<br>
 *S Wang, S Guo, J Hao, Y Ren, et al.*<br>
@@ -21,12 +21,12 @@ IEEE Transactions on Network and Service Management, 2024.
 **Tpu v4: An optically reconfigurable supercomputer for machine learning with hardware support for embeddings.**<br>
 *N Jouppi, G Kurian, S Li, P Ma, R Nagarajan, et al.*<br>
 ISCA, 2023.
-[[ArXiv](https://dl.acm.org/doi/pdf/10.1145/3579371.3589350)]
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3579371.3589350)]
 
 **MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs.**<br>
 *Z Jiang, H Lin, Y Zhong, Q Huang, Y Chen, et al.*<br>
 arXiv, 2024.
-[[ArXiv](https://arxiv.org/pdf/2402.15627)]
+[[Paper](https://arxiv.org/pdf/2402.15627)]
 
 **Alibaba HPN: A Data Center Network for Large Language Model Training.**<br>
 *K Qian, Y Xi, J Cao, J Gao, Y Xu, Y Guan, B Fu, X Shi, F Zhu, R Miao, C Wang, P Wang, et al.*<br>
@@ -83,7 +83,7 @@ arXiv, 2024.
 **Photonic network-on-wafer for multichiplet GPUs.**<br>
 *S Zhang, Z Zhang, M Naderan-Tahan, H SeyyedAghaei, X Wang, H Li, S Qin, D Colle, et al.*<br>
 IEEE Micro, 2023.
-[[ArXiv](https://backoffice.biblio.ugent.be/download/01GZDWHP8W96YG801R72YVBMC5/01H7D0FSVR2HM86M1D9M7WTDXB)]
+[[Paper](https://backoffice.biblio.ugent.be/download/01GZDWHP8W96YG801R72YVBMC5/01H7D0FSVR2HM86M1D9M7WTDXB)]
 
 **A Scalable Methodology for Designing Efficient Interconnection Network of Chiplets.**<br>
 *Y Feng, D Xiang, K Ma.*<br>
@@ -143,3 +143,20 @@ IEEE Internet of Things Magazine, 2024.
 **A Survey on Integrated Sensing, Communication, and Computation.**<br>
 *D Wen, Y Zhou, X Li, Y Shi, K Huang, KB Letaief.*<br>
 arXiv:2408.08074, 2024.
+
+## Agent Communications
+
+**Camel: Communicative agents for" mind" exploration of large language model society.**<br>
+*G Li, H Hammoud, H Itani, et al.*<br>
+NeurIPS, 2023.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)]
+
+**Chatdev: Communicative agents for software development.**<br>
+*C Qian, W Liu, H Liu, N Chen, Y Dang, J Li, C Yang, W Chen, Y Su, X Cong, J Xu, D Li, Z Liu, et al.*<br>
+ACL, 2024.
+[[Paper](https://aclanthology.org/2024.acl-long.810.pdf)]
+
+**Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems.**<br>
+*G Zhang, Y Yue, Z Li, S Yun, G Wan, K Wang, D Cheng, JX Yu, T Chen.*<br>
+arXiv:2410.02506, 2024.
+[[Paper](https://arxiv.org/pdf/2410.02506)]
