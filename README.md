@@ -45,15 +45,15 @@ arXiv, 2024.
 
 ## Distributed Deep Learning
 
-**Flexible silicon photonic architecture for accelerating distributed deep learning.**<br>
-*Zhenguo Wu, Liang Yuan Dai, Yuyang Wang, Songli Wang, and Keren Bergman.*<br>
-Journal of Optical Communications and Networking, 2024.
-[[Paper](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-16-2-A157&origin=search)]
-
 **Distributed training of large language models.**<br>
 *F Zeng, W Gan, Y Wang, et al.*<br>
 2023 IEEE 29th International Conference on Parallel and Distributed Systems (ICPADS), 2023.
 [[Paper](https://www.researchgate.net/profile/Wensheng-Gan/publication/379320620_Distributed_Training_of_Large_Language_Models/links/66095106390c214cfd2c968b/Distributed-Training-of-Large-Language-Models.pdf)]
+
+**Flexible silicon photonic architecture for accelerating distributed deep learning.**<br>
+*Zhenguo Wu, Liang Yuan Dai, Yuyang Wang, Songli Wang, and Keren Bergman.*<br>
+Journal of Optical Communications and Networking, 2024.
+[[Paper](https://opg.optica.org/jocn/abstract.cfm?uri=jocn-16-2-A157&origin=search)]
 
 **Reliable and efficient RAR-based distributed model training in computing power network.**<br>
 *Chen, Ling; Li, Yajie; Natalino, Carlos; Li, Yongcheng; Zhang, Boxin; Fan, Yingbo; Wang, Wei; Zhao, Yongli; Zhang, Jie.*<br>
@@ -143,20 +143,3 @@ IEEE Internet of Things Magazine, 2024.
 **A Survey on Integrated Sensing, Communication, and Computation.**<br>
 *D Wen, Y Zhou, X Li, Y Shi, K Huang, KB Letaief.*<br>
 arXiv:2408.08074, 2024.
-
-## Agent Communications
-
-**Camel: Communicative agents for" mind" exploration of large language model society.**<br>
-*G Li, H Hammoud, H Itani, et al.*<br>
-NeurIPS, 2023.
-[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)]
-
-**Chatdev: Communicative agents for software development.**<br>
-*C Qian, W Liu, H Liu, N Chen, Y Dang, J Li, C Yang, W Chen, Y Su, X Cong, J Xu, D Li, Z Liu, et al.*<br>
-ACL, 2024.
-[[Paper](https://aclanthology.org/2024.acl-long.810.pdf)]
-
-**Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems.**<br>
-*G Zhang, Y Yue, Z Li, S Yun, G Wan, K Wang, D Cheng, JX Yu, T Chen.*<br>
-arXiv:2410.02506, 2024.
-[[Paper](https://arxiv.org/pdf/2410.02506)]
