@@ -59,6 +59,11 @@ Journal of Optical Communications and Networking, 2024.
 *Chen, Ling; Li, Yajie; Natalino, Carlos; Li, Yongcheng; Zhang, Boxin; Fan, Yingbo; Wang, Wei; Zhao, Yongli; Zhang, Jie.*<br>
 Journal of Optical Communications and Networking, 2024.
 
+**HetHub: A Heterogeneous distributed hybrid training system for large-scale models.**<br>
+*S Xu, Z Huang, Y Zeng, S Yan, X Ning, H Ye, S Gu, C Shui, Z Lin, H Zhang, S Wang, G Dai, et al.*<br>
+arXiv:2405.16256, 2024.
+[[Paper](https://arxiv.org/pdf/2405.16256)]
+
 ## DataCenter
 
 **Recent advances in optical technologies for data centers: a review.**<br>
